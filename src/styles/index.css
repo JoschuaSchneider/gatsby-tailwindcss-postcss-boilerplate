@@ -1,0 +1,17 @@
+/*
+  Main CSS entrypoint.
+
+  This uses the @tailwind directives to include all classes
+  into your css bundle.
+
+  Visit https://tailwindcss.com/ for a full documentation.
+*/
+
+@tailwind base;
+@tailwind components;
+
+/*
+  Insert/Import your own component styles here.
+*/
+
+@tailwind utilities;
