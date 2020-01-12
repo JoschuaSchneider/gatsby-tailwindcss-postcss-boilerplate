@@ -9,9 +9,9 @@
 
 This will get you started with gatsby and TailwindCSS for both development and production. The config is very minimal and the default pages are re-build with tailwind from the original Gatsby Starter.
 
-### Check out the **[Gatsby Starter Repo](https://github.com/gatsbyjs/gatsby-starter-default)** for help on getting started with Gatsby.
+**Check out the [Gatsby Starter Repo](https://github.com/gatsbyjs/gatsby-starter-default) for help on getting started with Gatsby.**
 
-### Check out [TailwindCSS](https://tailwindcss.com/) for more info and docs!
+**Check out [TailwindCSS](https://tailwindcss.com/) for more info and docs!**
 
 
 ## Setting up for development
